@@ -1,1 +1,2 @@
 Writing slave file in the slave branch
+change made by slave2
