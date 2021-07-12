@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 template <class T>
+T sub(T a, T b)
+{
+return a-b;
+}
 T add(T a, T b)
 {
 return a+b;
